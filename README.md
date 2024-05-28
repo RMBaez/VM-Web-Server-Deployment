@@ -23,10 +23,21 @@ In this tutorial, we create a Virtual Machine in Azure to deploy a web server, s
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+-Task 1: Create a Resource Group
+
+-Task 2: Create a Virtual Network and a subnet
+
+-Task 3: Protect a subnet using a Network Security Group
+
+-Task 4: Deploy Bastion to connect to a Virtual Machine
+
+-Task 5: Create an Ubuntu Server Virtual Machine
+
+-Task 6: Install Nextcloud by connecting via SSH using Bastion
+
+-Task 7: Publish an IP
+
+-Task 8: Create a DNS label
 
 <h2>Actions and Observations</h2>
 
