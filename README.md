@@ -53,8 +53,8 @@ Task 1.
 
 <p>
 <img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/7624304b-3c63-46f0-bc48-4dea52f67de3">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/36a7d2d4-9eb0-4c9a-b0e4-2c2b0c45b20c">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/e66f4f13-5eb4-4296-9a2c-11e823fd1c6e">
+<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/a37ee951-5349-4325-8600-72fd2954ab71">
+<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/5044e55a-3c45-4ccd-bd44-02ae47806a37">
 
   
 </p>
