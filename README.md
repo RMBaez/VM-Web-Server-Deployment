@@ -53,8 +53,9 @@ Task 1.
 
 <p>
 <img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/7624304b-3c63-46f0-bc48-4dea52f67de3">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/72956ebb-02a5-4c72-9908-a5a9324dd792">
-<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/60c03dff-f1be-4df9-89ec-8cf34ab51dd4">
+<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/36a7d2d4-9eb0-4c9a-b0e4-2c2b0c45b20c">
+<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/e66f4f13-5eb4-4296-9a2c-11e823fd1c6e">
+
   
 </p>
 <p>
@@ -63,10 +64,15 @@ Task 2.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/d20fd8e1-17a9-4ef9-89b5-e568b3e26947">
+<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/03bf3e9d-f270-4c0a-883d-5b609eb98415">
+<img width="1440" alt="image" src="https://github.com/RMBaez/VM-Web-Server-Deployment/assets/170957530/b1a0f8e5-bd30-430f-acbf-f58e391f5d53">
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Task 3.
 </p>
 <br />
 
