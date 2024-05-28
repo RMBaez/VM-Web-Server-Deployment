@@ -8,22 +8,19 @@
 In this tutorial, we create a Virtual Machine in Azure to deploy a web server, specifically a Nextcloud server. We will also observe how to use Bastion to connect to the machine via SSH, without exposing an external port to the Internet, and then installing a simple Nextcloud server and make the Virtual Machine available.  <br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Microsoft Azure VM
+- Virtual Network
+- Bastion
+- Various Network Protocols (SSH)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Ubuntu Server
+- Nextcloud
 
 <h2>High-Level Steps</h2>
 
