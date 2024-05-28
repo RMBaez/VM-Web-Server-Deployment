@@ -14,8 +14,7 @@ In this tutorial, we create a Virtual Machine in Azure to deploy a web server, s
 - Microsoft Azure VM
 - Virtual Network
 - Bastion
-- Various Network Protocols (SSH)
-- Wireshark (Protocol Analyzer)
+- Network Protocol (SSH)
 
 <h2>Operating Systems Used </h2>
 
